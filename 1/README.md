@@ -4,4 +4,4 @@
 
 **Bedrock Edition**
 
- [Download .MCworld](world.mcworld)
+ [Download .MCworld](https://www.mediafire.com/file/dsp70c85aplv49q/world.mcworld/file)
