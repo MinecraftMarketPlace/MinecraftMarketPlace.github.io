@@ -1,6 +1,6 @@
 # Minions 
 ![picture](icon.jpg)
-* BenTen Minecraft MCWORLD For Free! :)
+* Minions Minecraft MCWORLD For Free!
 
 **Bedrock Edition**
 
